@@ -27,7 +27,7 @@ st_run.sh --market <market_name>
 ```
 The testing results on four major Chinese stock index option and the corresponding case studies are as follows:
 
-![overview](result_exp.png.png)
+![overview](result_exp.png)
 ![overview](conf_trade3.png)
 
 
