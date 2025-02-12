@@ -6,16 +6,16 @@ Overview of the Relaver framework
 
 ### Dependencies
 ```
-Python: 3.10.13
-Stable-Baselines3: 2.3.2
-PyTorch: 2.2.1+cpu
-GPU Enabled: False
-Numpy: 1.26.4
-Cloudpickle: 3.0.0
-Gymnasium: 0.29.1
-OpenAI Gym: 0.26.2
-yfinance 0.2.3
-finrl 0.3.5 
+Python==3.10.13
+PyTorch==2.2.1+cpu
+numpy==1.26.4
+pandas>=2.0.0
+cloudpickle==3.0.0
+yfinance==0.2.3
+finrl==0.3.5
+cupy  # Optional: Only if GPU support is needed
+scipy>=1.10.0
+matplotlib>=3.7.0
 ```
 
 ### Usage
