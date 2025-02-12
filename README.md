@@ -7,7 +7,7 @@ Overview of the Cubic framework
 ### Dependencies
 ```
 Python==3.10.13
-PyTorch==2.2.1+cpu
+PyTorch==2.2.1
 numpy==1.26.4
 pandas>=2.0.0
 cloudpickle==3.0.0
