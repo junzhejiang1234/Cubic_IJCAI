@@ -1,7 +1,7 @@
 # Cubic : Why Regression? Predicting Index Price with Stock Component Fusion and Binary Encoding Classification
 This repo provides the code for reproducing the stock index prediction in the IJCAI'25 submission 
 
-Overview of the Relaver framework
+Overview of the Cubic framework
 ![overview](overview.png)
 
 ### Dependencies
@@ -25,7 +25,7 @@ To execute the training and evaluation, specify the ``<Market name>`` (``USA`` o
 ```shell
 st_run.sh --market <market_name>
 ```
-The testing results on four major Chinese stock index option and the corresponding case studies are as follows:
+The testing results on major stock index and the corresponding case studies are as follows:
 
 ![overview](result_exp.png)
 ![overview](conf_trade3.png)
